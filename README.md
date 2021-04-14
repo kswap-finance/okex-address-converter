@@ -1,5 +1,7 @@
 # okex-address-converter 
 
+Thanks to [exchain-javascript-sdk](https://github.com/okex/exchain-javascript-sdk/blob/master/LICENSE)
+
 ## How to use
 
 ```javascript
